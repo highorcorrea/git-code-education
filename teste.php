@@ -1,2 +1,4 @@
-<?php phpinfo(); ?>
-Ola!
+<?php phpinfo(); 
+echo "Ola!";
+
+?>
