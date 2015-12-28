@@ -1,4 +1,5 @@
 <?php phpinfo(); 
- "Ola!";
+echo "Ola";
+echo ."Mundo!";
 
 ?>
